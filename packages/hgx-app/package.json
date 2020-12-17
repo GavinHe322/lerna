@@ -1,11 +1,11 @@
 {
-  "name": "feu-ui",
+  "name": "hgx-app",
   "version": "0.0.3",
   "description": "> TODO: description",
   "author": "GavinHe322 <1521550385@qq.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/feu-ui.js",
+  "main": "lib/hgx-app.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -16,10 +16,9 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "devDependencies": {
-    "chalk": "^4.1.0"
-  },
   "dependencies": {
-    "feu-tools": "^0.0.3"
-  }
+    "hgx-tools": "^0.0.3",
+    "hgx-ui": "^0.0.3"
+  },
+  "gitHead": "6c8fbee37812bfca539bbc3811c2c6626ad341bc"
 }

@@ -1,7 +1,7 @@
 'use strict'
 
-const ui = require('feu-ui')
-const { min } = require('feu-tools')
+const ui = require('hgx-ui')
+const { min } = require('hgx-tools')
 
 function App() {
   console.log('App 入口')

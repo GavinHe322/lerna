@@ -1,7 +1,7 @@
 'use strict'
 
 const chalk = require('chalk')
-const tools = require('feu-tools')
+const tools = require('hgx-tools')
 const log = console.log
 
 function ui(num) {

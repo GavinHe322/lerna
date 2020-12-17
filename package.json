@@ -3,7 +3,9 @@
   "private": true,
   "scripts": {
     "list": "lerna list",
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "bootstrap": "lerna bootstrap",
+    "help": "lerna --help"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
