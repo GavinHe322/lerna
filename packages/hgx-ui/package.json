@@ -1,6 +1,6 @@
 {
   "name": "hgx-ui",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "GavinHe322 <1521550385@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "chalk": "^4.1.0"
   },
   "dependencies": {
-    "hgx-tools": "^0.0.3"
+    "hgx-tools": "^0.0.4"
   },
   "gitHead": "6c8fbee37812bfca539bbc3811c2c6626ad341bc"
 }
