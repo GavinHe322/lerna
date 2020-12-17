@@ -1,11 +1,9 @@
 # npm
-./node_modules
-./package-lock.json
+node_modules
 
 .DS_Store
 
 # 测试
-__tests__
 
 # Editor directories and files
 .idea
