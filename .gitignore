@@ -1,0 +1,6 @@
+# npm
+node_modules
+package-lock.json
+
+# 测试
+__tests__
