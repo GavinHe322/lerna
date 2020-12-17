@@ -1,6 +1,6 @@
 {
   "name": "feu-ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "GavinHe322 <1521550385@qq.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "chalk": "^4.1.0"
   },
   "dependencies": {
-    "feu-tools": "^0.0.2"
+    "feu-tools": "^0.0.3"
   }
 }
