@@ -1,6 +1,6 @@
 {
   "name": "feu-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "GavinHe322 <1521550385@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "feu-tools": "^0.0.0",
-    "feu-ui": "^0.0.0"
+    "feu-tools": "^0.0.1",
+    "feu-ui": "^0.0.1"
   }
 }
